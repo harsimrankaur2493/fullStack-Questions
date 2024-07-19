@@ -1,0 +1,16 @@
+{
+  "name": "qrcode",
+  "version": "1.0.0",
+  "description": "qr code generation",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "simran",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.0.3",
+    "qr-image": "^3.2.0"
+  }
+}
